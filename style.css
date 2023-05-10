@@ -23,7 +23,8 @@ a{
 text-decoration:none ;
 color: whitesmoke;}
 .card{background-color: transparent;}
-.card-text{color: white;}
+.card-text{color: white;
+font-size:25px ;}
 .trait{ 
     background-color: brown;
     width: 5px; ;
