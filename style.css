@@ -29,7 +29,8 @@ font-size:25px ;}
     background-color: brown;
     width: 5px; ;
 height: 400px;
-margin-left: 45%;
+position: absolute;
+left:50% ;
 }
 .point{display: block;
 background-color: rgb(255, 0, 0);
@@ -91,35 +92,34 @@ height: 50px; ;}
     width: 150px;
 height: 10px ;
 border-radius:15px;
-margin-left:15% ;
 }
 .hr2{background-color:  rgb(11, 165, 34);
 width: 150px;
 height: 10px ;
-border-radius:15px  ;
-text-align: center;
-margin-left:15%}
+border-radius:15px;
+justify-content: center ;
+
+}
 .hr3{
     background-color:  rgb(128, 131, 202);
 width: 150px;
 height: 10px ;
-border-radius:15px  ;
-margin-left:15%
+border-radius:15px  
 }
 .hr4{
     background-color:  rgb(235, 19, 19);
     width: 150px;
     height: 10px ;
     border-radius:15px  ;
-    margin-left:25%}
-.hr5{margin-left:15%;
+    }
+.hr5{
     background-color:  rgb(18, 48, 219);
     width: 150px;
     height: 10px ;
     border-radius:15px  ;}
 
 .t6 {text-align: center; }
-.lestrait{text-align: center;}
+
 p {
     color: white; }
     h3 {text-align: center;
